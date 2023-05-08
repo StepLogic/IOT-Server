@@ -1,0 +1,6 @@
+core_cm7.h:2229:22:SCB_EnableICache	1
+core_cm7.h:2281:22:SCB_EnableDCache	3
+main.c:69:5:main	1
+main.c:124:6:SystemClock_Config	4
+main.c:178:13:MX_GPIO_Init	1
+main.c:683:6:Error_Handler	1
